@@ -1,4 +1,4 @@
-###  Life is shit, but I'm loving it.
+###  Life's shit, but I'm loving it.
 
 <!--
 **CodeWithJw/CodeWithJw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
