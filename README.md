@@ -1,5 +1,8 @@
 ###  Life's shit, but I'm loving it.
 
+Here I want to record my daily code, such as my personal blog website, and algorithm practice.
+
+
 <!--
 **CodeWithJw/CodeWithJw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
