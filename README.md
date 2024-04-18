@@ -1,6 +1,10 @@
 ###  Life's shit, but I'm loving it.
 
-Here I want to record my daily code, such as my personal blog website, and algorithm practice.
+Record my daily code here.
+
+Personal blog website.
+
+Algorithm practice.
 
 
 <!--
