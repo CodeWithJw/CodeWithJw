@@ -1,10 +1,4 @@
-###  Life's shit, but I'm loving it.
-
-Record my daily code here.
-
-Personal blog website.
-
-Algorithm practice.
+###  Yesterday you said tomorrow.
 
 
 <!--
